@@ -1,0 +1,6 @@
+-Iheaders
+-Wall
+-O2
+-std=c17
+-lm
+
